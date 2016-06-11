@@ -1,3 +1,3 @@
-const Server = require('./Server');
+const Server = require("./Server");
 
-new Server();
+new Server(19132);
